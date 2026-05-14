@@ -1,4 +1,4 @@
-# 
+# rare isolated-margin trading bot Executor | isolated-margin + order-book-analysis offers the most advanced isolated-margin trading bot, with isolated-margin and
 
 
 
